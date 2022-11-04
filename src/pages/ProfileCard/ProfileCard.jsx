@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from '../../component/button/Button';
+import Button from '../../component/button/Button' ;
 import ProfileImage from '../../resources/DisplayPhoto.jpeg';
 import { MyCard } from './ProfileCardStyle';
 import slack from '../../resources/slack.png';
