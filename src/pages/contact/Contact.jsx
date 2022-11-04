@@ -27,6 +27,7 @@ const Contact = () => {
 					label={'Email'}
 					id={'email'}
 				/>
+				
 				<Textarea className='textarea'>
 					<label htmlFor='message'>Message</label>
 					<textarea
